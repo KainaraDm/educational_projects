@@ -8,10 +8,13 @@ Models: Regression, Knn, SVM, Logistic regression, Random forest
 
 Models: Logistic Regression, Knn, SVM, Random forest, AdaBoost 
 
-<a href="https://github.com/KainaraDm/Kaggle_Competition_2024_for_Ukrainians">3. Kaggle Competition 2024 for Ukrainians (2024)</a> 
+<a href="https://github.com/KainaraDm/MNIST_competition/blob/main/Digit_Recognizer.ipynb">3. MNIST_competition (2023)</a> 
 
 Models: Ensemble of Gradient Boosting (LightGBM) and Neural Networks with embeddings
 
+<a href="https://github.com/KainaraDm/Kaggle_Competition_2024_for_Ukrainians">4. Kaggle Competition 2024 for Ukrainians (2024)</a> 
+
+Models: Dense Neural Network
 
 
-Rest projects will be uploaded in the next few days. Apologies for the delay
+
